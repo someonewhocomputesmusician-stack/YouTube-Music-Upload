@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Music Uploader",
+  "description": "Upload and manage audio files to YouTube Music using RapidAPI with Gemini AI metadata optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
